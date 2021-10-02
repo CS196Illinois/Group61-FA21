@@ -6,4 +6,5 @@ For Sprint 2:
   - Create our terrain and add some additional elements that fit the overall theme so we don't just have an empty flat land. 
   - import character model
   - import movement scripts so our character can walk/run, jump
+  - import at least one default weapon
   - combat actions like swinging a sword, blocking, and maybe rolling
