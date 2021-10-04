@@ -9,3 +9,4 @@ For Sprint 2:
   - import movement scripts so our character can walk/run, jump
   - import at least one default weapon
   - combat actions like swinging a sword, blocking, and maybe rolling
+  - import at least two boss models with their own movement scripts
