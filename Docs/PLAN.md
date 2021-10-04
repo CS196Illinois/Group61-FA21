@@ -4,6 +4,7 @@ We need to create a flat level terrain using Unity and then add in our playable 
 
 For Sprint 2: 
   - Create our terrain and add some additional elements that fit the overall theme so we don't just have an empty flat land. 
+  - import terrain assests
   - import character model
   - import movement scripts so our character can walk/run, jump
   - import at least one default weapon
