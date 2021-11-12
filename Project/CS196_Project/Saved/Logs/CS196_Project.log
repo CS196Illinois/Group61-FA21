@@ -928,3 +928,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.12-21.56.22:503][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.11.12-21.56.22:576][  3]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.11.12-21.56.23:969][ 85]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2021.11.12-22.08.14:885][842]LogSlate: Took 0.005610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.12-22.09.30:056][357]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2021.11.12-22.11.11:071][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.12-22.11.11:096][869]LogSlate: Window 'CS196_Project - Unreal Editor' being destroyed
