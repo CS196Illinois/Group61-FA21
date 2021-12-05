@@ -1,0 +1,4 @@
+Under the SkeletalMeshComponent, If I keep the default skin the arm breaks but the ragdoll works.
+Opposite if I replace it with my model, most likely due to slightly different skeletons.
+
+I shall keep the broken ragdoll.
